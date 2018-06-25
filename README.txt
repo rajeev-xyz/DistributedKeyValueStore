@@ -27,7 +27,8 @@ To make it distributed system, communication between different node process are 
 Steps to run this program:
 
 >git clone https://github.com/rjayaswal/DistributedKeyValueStore.git
-> cd DistributedKeyValueStore/
+>cd DistributedKeyValueStore/
+>npm install
 
 Open n terminal, let's say n = 4 for now.
 
