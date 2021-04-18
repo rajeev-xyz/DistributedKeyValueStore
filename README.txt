@@ -1,4 +1,6 @@
-<--------------------------------------------------Problem Statement----------------------------------------------->
+# Implement Distributed Key Value Store
+
+## Problem Statement
 
 “A key-value store, or key-value database, is a data storage paradigm designed for storing, retrieving, and managing associative arrays, a data structure more commonly known today as a dictionary or hash.” from Wikipedia. 
 
@@ -20,7 +22,7 @@ $ curl -H “Accept: application/json” http://localhost:4466/get/key
 
 “value”
 
-<---------------------------------------------------------Solution---------------------------------------------------------->
+## Solution
 
 To make it distributed system, communication between different node process are being done by socket.
 
